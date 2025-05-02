@@ -1,4 +1,4 @@
-🚀 Job Portal Web App – Spring Boot 3 + React
+#🚀 Job Portal Web App – Spring Boot 3 + React
 
 This is a full-stack Job Portal Web Application built with Spring Boot 3, Spring Security, JPA, MySQL, and a React frontend. It allows recruiters and job seekers to connect through job postings, applications, and account management features.
 📸 Screenshots
